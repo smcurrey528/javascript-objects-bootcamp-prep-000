@@ -1,5 +1,5 @@
 var playlist = {
-  Alison: "Slow Dive",
+  SlowDive: "Alison",
   MyBloodyValentine: "Sometimes"
 };
 
